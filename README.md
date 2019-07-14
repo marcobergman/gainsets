@@ -6,3 +6,7 @@ to install:
  - configure the 4 constants at the beginning of the file          
  - optional: make a menu item using Raspberry - Preferences - Main Menu Editor
 
+to run:
+ - as user pi, type 
+      python gainsets.py
+ - or use the menu item
