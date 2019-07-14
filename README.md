@@ -10,3 +10,5 @@ to run:
  - as user pi, type 
       python gainsets.py
  - or use the menu item
+
+Ref. http://forum.openmarine.net/showthread.php?tid=1876
